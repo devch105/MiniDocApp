@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - This is a mini docs app made to practice React JS . 
-- It uses Tailwind and Framer motion Dynamic Rendering in the components for the contents in mini Notes in the main Page.
+- It uses [Tailwind](https://tailwindcss.com/) and [Framer motion](https://www.framer.com/motion/) ,  Dynamic Rendering in the components for the contents in mini Notes in the main Page.
