@@ -9,7 +9,7 @@ function Foreground() {
 
   const data = [
     {
-      desc: "Hello My Name is Dev Dhama and this is my MiniReactApp.",
+      desc: "Hello My Name is Vashu Tomar and this is my MiniReactApp.",
       filesize: ".9mb",
       close: true,
       tag: { isOpen: true, tagtitle: "Download Now", tagcolor: "green" },
@@ -21,7 +21,7 @@ function Foreground() {
       tag: { isOpen: true, tagtitle: "Upload", tagcolor: "blue" },
     },
     {
-      desc: "Hello My Name is Dev Dhama and this is my MiniReactApp.",
+      desc: "Hello My Name is Vashu and this is my MiniReactApp.",
       filesize: ".7mb",
       close: true,
       tag: { isOpen: true, tagtitle: "Download Now", tagcolor: "green" },
